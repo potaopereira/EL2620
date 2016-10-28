@@ -44,5 +44,5 @@ the repository at times to get any changes introduced.
 [juliabox-link]: https://juliabox.com/
 [git-link]: https://git-scm.com/
 [clone-doc]: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
-[dl-link]: https://github.com/KTH-AC/el2620-compendium/archive/master.zip
-[repo-link]: https://github.com/KTH-AC/el2620-compendium.git
+[dl-link]: https://github.com/KTH-AC/EL2620/archive/master.zip
+[repo-link]: https://github.com/KTH-AC/EL2620.git
